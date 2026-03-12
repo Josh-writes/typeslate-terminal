@@ -1,8 +1,11 @@
 # TypeSlate Terminal
 
+
 A distraction-free writing environment for the terminal. Built with [Textual](https://textual.textualize.io/).
 
 TypeSlate Terminal brings focused, minimal writing to your terminal — no browser, no GUI, no distractions. Just open your terminal, type `typeslate`, and write.
+
+<img width="2560" height="1504" alt="terminal-window" src="https://github.com/user-attachments/assets/0fe2959a-9c19-4e26-a502-cb5a2ca7c0ca" />
 
 ## Features
 
@@ -20,6 +23,9 @@ TypeSlate Terminal brings focused, minimal writing to your terminal — no brows
 - **Clipboard export** — text is copied to clipboard when your session ends
 - **Cross-platform** — works on Windows, macOS, and Linux
 - **Shared database** — stats sync with the desktop TypeSlate app
+
+<img width="2560" height="1600" alt="fullscreen-writing-env" src="https://github.com/user-attachments/assets/8c8f13ac-7823-45b7-a0df-6a505b94fe4d" />
+
 
 ## Installation
 
@@ -116,7 +122,7 @@ TypeSlate Terminal stores its database and settings in your platform's standard 
 | **macOS** | `~/Library/Application Support/TypeSlate/` |
 | **Linux** | `~/.local/share/TypeSlate/` |
 
-The database is shared with the [desktop TypeSlate app](https://github.com/josh-writes), so your stats stay unified across both versions.
+The database is shared with the [desktop TypeSlate app](https://typeslate.com), so your stats stay unified across both versions.
 
 ## Stats Settings
 
@@ -135,3 +141,11 @@ Access via the **Settings** button in the stats panel:
 ## License
 
 [MIT](LICENSE)
+
+## Typeslate
+[typeslate.com](https://typeslate.com)
+
+If you want to say thanks, I love coffee...
+ [![Ko-fi](https://img.shields.io/badge/Support-Ko--fi-ff5e5b?logo=ko-fi&logoColor=white)](https://ko-fi.com/typeslate)
+
+ 
